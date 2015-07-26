@@ -1,0 +1,3 @@
+Accompanying the other similarly named repo, this is a FastCGI program that will pass QUERY_STRING parameters to be checked against a sql database and inserted if unique.
+
+(parameters are passed with '+' as a delimiter after each param e.g. "localhost/?param1+param2+")
